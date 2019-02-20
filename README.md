@@ -18,3 +18,11 @@ sampling size=2000
 plus pivot_table:OFFENSE_CODE_GROUP
 
 change plot method,use seaborn instead of matplotlib.pyplot
+
+# 2019-02-20
+
+extending with more ML models,
+
+including RandomForestClassifier,SVC
+
++accuracy_score
