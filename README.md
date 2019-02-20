@@ -17,4 +17,4 @@ sampling size=2000
 
 plus pivot_table:OFFENSE_CODE_GROUP
 
-change plot method instead of seaborn
+change plot method,use seaborn instead of matplotlib.pyplot
